@@ -1,0 +1,12 @@
+G:\C#\lesson02\SportStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+G:\C#\lesson02\SportStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+G:\C#\lesson02\SportStore\SportsStore.Domain\bin\Debug\Moq.dll
+G:\C#\lesson02\SportStore\SportsStore.Domain\bin\Debug\Moq.xml
+G:\C#\lesson02\SportStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+G:\C#\lesson02\SportStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+G:\C#\lesson02\SportStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+G:\C#\lesson02\SportStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+G:\C#\lesson02\SportStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+G:\C#\lesson02\SportStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+G:\C#\lesson02\SportStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+G:\C#\lesson02\SportStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
